@@ -1,0 +1,15 @@
+{
+  "name": "savepoint",
+  "version": "0.1.0",
+  "description": "Lightweight session savepoints for Claude Code. Save and restore conversation context without replaying full history.",
+  "author": {
+    "name": "Jean de Campredon"
+  },
+  "keywords": [
+    "resume",
+    "restore",
+    "context",
+    "token",
+    "workflows"
+  ]
+}

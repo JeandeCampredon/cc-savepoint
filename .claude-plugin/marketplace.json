@@ -1,0 +1,18 @@
+{
+  "name": "savepoint",
+  "description": "Preserve Essential Context, Save your token, Restore fast",
+  "owner": {
+    "name": "Jean de Campredon"
+  },
+  "plugins": [
+    {
+      "name": "savepoint",
+      "source": "./",
+      "description": "Lightweight session savepoints for Claude Code. Save and restore conversation context without replaying full history.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Jean de Campredon"
+      }
+    }
+  ]
+}
